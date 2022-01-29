@@ -1,6 +1,6 @@
 const url = "http://api.openweathermap.org/data/2.5/weather?q=";
 
-const key = "&APPID=13fa6e5cb3df05f40d29fe0d55e31e74";
+const key = "&APPID=13fa6e5cb3df05f40d29fe0d55e31e74"; /*THIS API KEY IS A PLACEHOLDER IT DOES NOT WORK*/
 
 const imperial = document.getElementById("Far");
 const standard = document.getElementById("Kel");
